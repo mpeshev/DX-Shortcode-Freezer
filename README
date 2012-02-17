@@ -1,0 +1,1 @@
+Shortcode Freezer. If you have a website with content based on shortcodes and this content generates some static data (i.e. authors, pricing, buttons and other listing that just provides html markup with a 'short code'), then feel free to convert that to the static values before switching themes. Warning: it ain't gonna work with dynamic data like post listings etc.
